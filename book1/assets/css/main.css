@@ -1774,6 +1774,22 @@ input, select, textarea {
 			display: none;
 		}
 
+/* Subject */
+
+	#subject {
+		height: 10em;
+		vertical-align:center;   /* 居中對齊, */
+	}
+	
+
+/* logo */
+
+	#logo {
+		display: inline-block;
+		vertical-align:text-bottom;
+	}
+
+
 /* Nav */
 
 	#nav {
