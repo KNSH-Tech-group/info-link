@@ -6,6 +6,19 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+.otherlink {
+	
+	padding: 2px 6px;
+	font-size: 26px;
+	font-weight: bold;
+	color:black;
+	text-decoration:none;
+	background-color: #f7eeab;
+}
+.otherlink:hover {
+	color: #e04c31;
+	background-color: #abd5f7;
+}
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
