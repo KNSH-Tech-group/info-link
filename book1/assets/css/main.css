@@ -6,6 +6,8 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 	*/
+
+
 	#home-link {
 		color:white;
 		font-size:1.9em;
@@ -2038,7 +2040,7 @@
 
 			#main > .panel.intro {
 				padding: 0;
-				height: 20em;
+				height: 28em;
 				display: -moz-flex;
 				display: -webkit-flex;
 				display: -ms-flex;
